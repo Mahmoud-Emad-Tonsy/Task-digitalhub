@@ -1,0 +1,26 @@
+create a frontend page using 
+React to show a list of tasks (2 tasks per row) with task 
+description and status [colored according to the status] 
+(Not Started - In Progress- Finished) 
+with add, edit and delete 
+functionalities for each task.
+
+Please note that:
+
+-      Functionalities are reflected on the frontend only (No endpoints). 
+
+-       Use your own design that meets UI-UX requirements.
+
+-        Create a component to render each task.
+
+Bonus requirements:
+
+-        Adding sorting,
+          filtration,
+           pagination to the list of tasks.
+
+-        Dummy Login Page
+-        Using Caching to cache the list of tasks
+
+
+We are expecting to receive it within 3 days.
